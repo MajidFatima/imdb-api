@@ -1,7 +1,5 @@
-	const api_url = 'http://www.omdbapi.com/';	
-  var request_details = new XMLHttpRequest
-  var pokedata;
-
+const api_url = 'http://www.omdbapi.com/';	
+var request_details = new XMLHttpRequest
 
 function search_movie()
 {
